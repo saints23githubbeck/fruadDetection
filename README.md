@@ -2,8 +2,6 @@
     <h1 align="center"> Fruad Detector System Using Laravel</h1>
 </p>
 
-The project was created while recording video "Create Fruad Detector System Using Laravel"
-
 ## Installation
 
 ### Requirements
