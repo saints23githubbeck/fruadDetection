@@ -43,7 +43,7 @@ Rename or copy `.env.example` file to `.env` 1.`php artisan key:generate` to gen
     App\Models\User::create([
         'first_name' => 'Admin',
         'last_name' => 'admin',
-        'email'=>'dineshra@marygoldandco.com',
+        'email'=>'dmishra@marygoldandco.com',
         'country'=>'ghana',
         'if'=>'127.34.65.0.4',
         'contact'=>'+233243334494',
