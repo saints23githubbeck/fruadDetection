@@ -25,7 +25,8 @@ Clone Repository  https://github.com/saints23githubbeck/fruadDetection.git
 Rename or copy `.env.example` file to `.env` 1.`php artisan key:generate` to generate app key.
 
 1. Set your database credentials in your `.env` file
-1. Set your `APP_URL` in your `.env` file.
+2. create new database in MySQL according to your database configuration in the .env
+3. Set your `APP_URL` in your `.env` file.
 
 ### Database
 
